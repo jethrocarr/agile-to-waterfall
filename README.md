@@ -1,9 +1,9 @@
-cloud-to-butt
-=============
+agile-to-waterfall
+==================
 
 Chrome extension that replaces occurrences of 'agile' with 'waterfall'
 
-[Direct download of crx file](https://github.com/jethrocarr/agile-to-waterfall/blob/master/AgileToWaterfall.crx?raw=true)
+[Direct download of crx file](https://github.com/jethrocarr/agile-to-waterfall/raw/master/AgiletoWaterfall.crx)
 
 Copied entirely from the hard work of @panicsteve and shamelessly sed'd.
 
